@@ -1,0 +1,6 @@
+{
+    "username":"root",
+    "password": "rootpassword",
+    "url": "mongodb+srv://root:<password>@timetable.dspgw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "host": "tms-development.7rnvm.mongodb.net"
+}
